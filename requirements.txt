@@ -1,0 +1,10 @@
+Python
+Scikit-learn
+Pandas
+NumPy
+Joblib
+nltk
+requests
+streamlit
+gunicorn
+flask
