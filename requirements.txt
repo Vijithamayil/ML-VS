@@ -6,5 +6,4 @@ Joblib
 nltk
 requests
 streamlit
-gunicorn
-flask
+gunicorngit 
