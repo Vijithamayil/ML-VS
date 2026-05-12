@@ -7,4 +7,3 @@ nltk
 requests
 streamlit
 gunicorngit 
-flash
